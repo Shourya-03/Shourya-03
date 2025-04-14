@@ -28,13 +28,6 @@ But this is just the beginning. I believe in structured chaos: learning rigorous
 
 ---
 
-## 📊 GitHub Stats
-
-![Shourya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shourya-03&show_icons=true&theme=default)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya-03&layout=compact)](https://github.com/Shourya-03)
-
----
-
 ## 💬 Let's Connect
 
 I’m always open to collaborating on meaningful projects or just exchanging ideas. Feel free to reach out!
