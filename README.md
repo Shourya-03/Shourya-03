@@ -1,35 +1,45 @@
-# Hey there, I'm Shourya 👋
+# Hey there, I'm Shourya 👋  
 
-**Developer | AI Enthusiast | Lifelong Learner**
+**B.Tech 2nd Year | Developer | Problem Solver | Lifelong Learner**  
 
-I'm a passionate software developer and aspiring innovator, working on building AI-integrated platforms that blend technology with personalized user experiences. From hackathons to full-fledged projects, I’m always striving to solve real-world problems with code and creativity.
+I’m a passionate **Computer Science student**, currently in my 2nd year of B.Tech. My journey began with **C++ and Data Structures/Algorithms**, which gave me a strong foundation in logic and problem-solving. Along the way, I’ve also been exploring **web development** (HTML, CSS, JavaScript) and gradually expanding my skillset.  
 
-[![Connect on LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya03)
-[![Follow on Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaurya_0311/)
-
----
-
-## 🚀 My Tech Journey
-
-I started coding with C++, diving into fundamentals, data structures, and algorithmic thinking. That curiosity evolved into a broader mission: to build something that empowers others.
-
-Currently pursuing my degree and leading a team at **Quantum Maverick**, I’ve been immersed in building platforms that make tech accessible and impactful.
-
-But this is just the beginning. I believe in structured chaos: learning rigorously while leaving space for creativity. Whether it's Python automation, full-stack dev, or brainstorming platform architectures, I'm always learning and building.
+I love building things that solve problems, no matter how small. From **coding challenges** to **hands-on projects**, I believe consistency and curiosity drive real growth.  
 
 ---
 
-## 🛠 Languages & Tools
+## 🚀 What I’m Working On  
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- 📚 Strengthening my **DSA skills in C++**  
+- 🌐 Exploring **Web Development** with HTML, CSS, and JavaScript  
+- 💻 Building small projects to apply what I learn  
+- 🔄 Balancing **theory, practice, and real-world application**  
 
 ---
 
-## 💬 Let's Connect
+## 🛠 Languages & Tools  
 
-I’m always open to collaborating on meaningful projects or just exchanging ideas. Feel free to reach out!
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 
-> “Clarity isn’t found, it’s created — one line, one project, one challenge at a time.”
+---
+
+## 💡 My Vision  
+
+For me, development is not just about writing code—it’s about **creating clarity, solving problems, and building impact step by step**. I aim to become a versatile developer who can move seamlessly between **coding challenges, system design, and building meaningful projects**.  
+
+> “The best way to predict the future is to code it.”  
+
+---
+
+## 💬 Let’s Connect  
+
+I’m always open to **collaborations, discussions, or exchanging ideas**. Feel free to connect with me here:  
+
+[![Connect on LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya03)  
+[![Follow on Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shaurya_0311/)  
